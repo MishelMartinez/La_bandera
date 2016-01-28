@@ -1,0 +1,20 @@
+	div{
+		width:25%;
+		height:40%;
+		padding-left: 5px;
+		display:inline;
+		/* inline se adapta a los los contenidos de la box*/
+		font-size:140%;
+
+	}
+	.yellow{
+		background:yellow;
+	}
+	.red{
+		background:red;
+	}
+	.padding{
+		padding-top:15px;
+		padding-left: 5px;
+	}
+	
